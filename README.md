@@ -2,7 +2,7 @@
 My name is Maximilian Burger. I am currently attending the higher tecnical school [HTL 3 Rennweg][1] for IT in the capital city of Austria, Vienna.
 I am 16 years old and also work privately on my own projects to further my education. My current interests are software development, network technology and the Unreal Engine. You can find some of my public projects here on GitHub.
 
-I'm also currently working on a private project with the Unreal Engine. More information will follow on this project in the future. My other big (public) project is the open source C ++ library called MYLE.
+I'm also currently working on a private project with the Unreal Engine. More information on this project will follow in the future. My other big (public) project is the open source C ++ library called MYLE.
 
 ## Interests/Skills
 - C++
