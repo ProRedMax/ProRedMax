@@ -22,13 +22,13 @@ I'm also currently working on a private project with the Unreal Engine. More inf
 
 ## My GitHub-Stats
 
-<a href="https://github.com/alex-hiermann">
+<a href="https://github.com/ProRedMax">
     <img style="padding-right: 5px;" align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProRedMax&bg_color=1d1f21&title_color=fefefe&text_color=c8c9cb&langs_count=10&layout=compact">
     </img>
 </a>
 
-<a href="https://github.com/alex-hiermann">
+<a href="https://github.com/ProRedMax">
     <img style="padding-left: 5px;" align="center"
         src="https://github-readme-stats.vercel.app/api?username=ProRedMax&count_private=true&show_icons=true&title_color=fefefe&bg_color=1d1f21&text_color=c8c9cb&">
     </img>
