@@ -16,7 +16,6 @@ I'm also currently working on a private project with the Unreal Engine. More inf
 - [Email][3]
 - [LinkedIn][4]
 - [Xing][5]
-- [Twitter][2] Political
 - [Stack Overflow][6]
 
 
@@ -35,7 +34,6 @@ I'm also currently working on a private project with the Unreal Engine. More inf
 </a>
 
 [1]: https://www.htlrennweg.at/
-[2]: https://twitter.com/maxx_bur
 [3]: mailto:mabug@outlook.de
 [4]: https://www.linkedin.com/in/maximilian-burger-81a9581b3/
 [5]: https://www.xing.com/profile/Maximilian_Burger18/cv
