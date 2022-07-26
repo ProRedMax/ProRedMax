@@ -5,8 +5,9 @@ I am 18 years old and also work privately on my own projects to further my educa
 I'm also currently working on a private project with the Unreal Engine. More information on this project will follow in the future. My other big (public) project is the open source C ++ library called MYLE.
 
 ## Interests/Skills
-- C++
+- C#
 - Java
+- Python
 - Unreal Engine 4
 - PHP
 - Javascript
