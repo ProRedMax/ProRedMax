@@ -24,11 +24,7 @@ I am currently working on my diploma thesis "ExamX". More information on [the di
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProRedMax&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/ProRedMax">
-    <img style="padding-left: 5px;" align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ProRedMax&count_private=true&show_icons=true&title_color=fefefe&bg_color=1d1f21&text_color=c8c9cb&">
-    </img>
-</a>
+![ProRedMax GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProRedMax&show_icons=true&theme=nightowl)
 
 [1]: https://www.htlrennweg.at/
 [3]: mailto:mabug@outlook.de
