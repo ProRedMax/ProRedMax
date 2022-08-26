@@ -9,7 +9,7 @@ I am currently working on my diploma thesis "ExamX". More information on [the di
 - Java
 - Python
 - Unreal Engine 4
-- PHP
+- Powershell
 - Javascript
 
 ## Contact me
