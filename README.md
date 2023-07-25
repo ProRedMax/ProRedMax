@@ -1,16 +1,13 @@
 # Hi there 👋
-My name is Maximilian Burger. I am currently attending the higher technical school [HTL 3 Rennweg][1] for IT in the capital city of Austria, Vienna.
-I am 18 years old and also work privately on my own projects to further my education. My current interests are software development, network technology and the Unreal Engine. You can find some of my public projects here on GitHub.
-
-I am currently working on my diploma thesis "ExamX". More information on [the diploma website](https://www.examx.at). In this project I am mostly working with Python. C# and Powershell.
+My name is Maximilian Burger. I am 19 years old and have a big interest in the IT sector as an IT-Allrounder. My current interests are software development, network technology, and the Unreal Engine. You can find some of my public projects here on GitHub.
 
 ## Interests/Skills
 - C#
 - Java
 - Python
-- Unreal Engine 4
 - Powershell
 - Javascript
+- Unreal Engine 4
 
 ## Contact me
 
