@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Maximilian Burger. I am 19 years old and have a big interest in the IT sector as an IT-Allrounder. My current interests are software development, network technology, and the Unreal Engine. You can find some of my public projects here on GitHub.
+My name is Maximilian Burger. I am 20 years old and have a big interest in the IT sector as an IT-Allrounder. My current interests are software development, network technology, and the Unreal Engine. You can find some of my public projects here on GitHub.
 
 ## Interests/Skills
 - C#
